@@ -1,0 +1,21 @@
+{
+  "name": "aussiebot",
+  "version": "1.0.0",
+  "description": "aussiebot rewrite",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tav#7021",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.3",
+    "discord.js": "^13.1.0",
+    "erlpack": "github:discord/erlpack",
+    "utf-8-validate": "^5.0.5",
+    "zlib-sync": "^0.1.7"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.7"
+  }
+}
