@@ -1,6 +1,6 @@
 {
   "name": "aussiebot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "aussiebot rewrite",
   "main": "src/main.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "dependencies": {
     "bufferutil": "^4.0.3",
     "discord.js": "^13.1.0",
+    "erela.js": "^2.3.3",
     "erlpack": "github:discord/erlpack",
     "utf-8-validate": "^5.0.5",
     "zlib-sync": "^0.1.7"

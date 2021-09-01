@@ -5,7 +5,7 @@ const Client = require("./Client.js");
 const Discord = require("discord.js");
 
 /**
- * @param {Discord.Message | Discord.Interaction} message
+ * @param {Discord.Message} message
  * @param {string[]} args
  * @param {Client} client
  */
